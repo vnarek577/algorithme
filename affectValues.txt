@@ -1,0 +1,9 @@
+Algorithme affectValues
+
+Variables:
+firstWord:string
+secondWord:string
+
+Instruction:
+firstWord<- "Hello"
+secondWord<- "World"

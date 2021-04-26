@@ -1,0 +1,9 @@
+Algoritme demandeNom
+
+Variables:
+username:string
+
+Instruction:
+Write("Bonjour", Quelle est votre nom"!")
+Read (username)
+Write ("Bonjour" username "!")
